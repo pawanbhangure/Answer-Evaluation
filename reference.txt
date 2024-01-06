@@ -1,0 +1,2 @@
+What is computer?
+A computer is a device that accepts information and manipulates it for some result based on a program, software, or sequence of instructions on how the data is to be processed.
